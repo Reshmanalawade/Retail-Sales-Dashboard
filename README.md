@@ -23,7 +23,7 @@ An interactive Tableau dashboard analyzing retail sales data with insights on re
  - The largest spikes in revenue come in the month of December each year, with an average increase of 158 % over the previous month. This is likely due to the Christmas holiday.
 
 ## Dashboard :
-<img src="./Dashboard.png" width="3000" height="600"/>&nbsp;
+<img src="./Retail Sales Dash img.jpg" width="3000" height="600"/>&nbsp;
 
 
 ## Continent Map :
