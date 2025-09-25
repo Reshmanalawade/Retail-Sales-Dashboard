@@ -3,6 +3,9 @@ An interactive Tableau dashboard analyzing retail sales data with insights on re
 
 <img src="mountain img.jpg" width=1000>
 
+## Overview : 
+The Retail Sales Dashboard is a data visualization project built in Tableau to analyze and monitor retail business performance. It helps track sales, profit, and customer behavior across different regions, products, and time periods. The goal is to provide a clear, interactive view of business insights that supports decision-making.
+
 ## Features
 
 - Filter sales by region, category, and time.
