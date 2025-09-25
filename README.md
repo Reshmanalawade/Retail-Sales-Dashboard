@@ -24,7 +24,3 @@ An interactive Tableau dashboard analyzing retail sales data with insights on re
 
 ## Dashboard :
 <img src="./Retail Sales Dash img.jpg" width="3000" height="600"/>&nbsp;
-
-
-## Continent Map :
-<img src="./Map Img.png" width="3000" height="600"/>&nbsp;
